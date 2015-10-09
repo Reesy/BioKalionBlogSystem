@@ -1,0 +1,41 @@
+body {
+  padding-top: 50px;
+  background-color: green;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.blog-Disv{
+
+	background-color: green;
+
+}
+.panel{
+	margin-left: auto;
+	margin-right: auto;
+	
+	vertical-align: center;
+	border-radius: 0;
+	max-width: 700px;
+}
+
+.panel-footer{
+
+	min-height: 30px;
+
+}
+.form-horizontal {
+	border-radius: 0;
+	text-align: left;
+	max-width: 600px;
+}
+
+.form-control{
+	border-radius: 0;
+}
+
+#blogFooter {
+	float:right;
+}
